@@ -223,10 +223,10 @@
         },
         {
           "i": 1669950805697083,
-          "n": "Odonata zygoptera",
-          "v": "Damselfly",
-          "g": "Odonata",
-          "o": "",
+          "n": "Austrolestes aleison",
+          "v": "Western Ringtail Damselfly",
+          "g": "Austrolestes",
+          "o": "Medium-sized to large damselfly endemic to WA; male blue and black.",
           "c": "ANTHROPOD",
           "k": "ANIMAL",
           "d": false
@@ -234,7 +234,7 @@
         {
           "i": 1671490124839484,
           "n": "Baumea juncea",
-          "v": "Bare-twig Rush",
+          "v": "BareTwig Rush",
           "g": "Baumea",
           "o": "spike like sedge producing 1m inflorescence prefers seasonally waterlogged soil.",
           "c": "MONOCOTYLEDON",
@@ -254,7 +254,7 @@
         {
           "i": 1672909541720612,
           "n": "Baumea articulata",
-          "v": "Jointed-twig Rush",
+          "v": "JointedTwig Rush",
           "g": "Baumea",
           "o": "Grass-like perennial plant native to WA growing to a height of 1-2.6m; pendulous inflorescences.",
           "c": "MONOCOTYLEDON",
@@ -294,7 +294,7 @@
         {
           "i": 1672904996984448,
           "n": "Mictis profana",
-          "v": "Crusader bug",
+          "v": "Crusader Beetle",
           "g": "Mictis",
           "o": "Large bugs with long oval bodies producing a strong smell; feeds on young plant growth.",
           "c": "ANTHROPOD",
@@ -320,8 +320,226 @@
           "c": "DICOTYLEDON",
           "k": "PLANT",
           "d": false
+        },
+        {
+          "i": 1673139600153470,
+          "n": "Chenonetta jubata",
+          "v": "Australian Wood Duck",
+          "g": "Chenonetta",
+          "o": "Medium-sized duck with brown head and pale grey body; highly social in nature.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },
+        {
+          "i": 1673139600153471,
+          "n": "Tadorna tadornoides",
+          "v": "Australian Shelduck",
+          "g": "Tadorna",
+          "o": "Largest native duck with brightly coloured body, small head and bill.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },
+        {
+          "i": 1673139600153472,
+          "n": "Hardenbergia comptoniana",
+          "v": "Native Wisteria",
+          "g": "Hardenbergia",
+          "o": "Leathery dark green trifoliate leaves on twining stems producing pea-shaped purple flowers.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },
+        {
+          "i": 1673139600153473,
+          "n": "Callistemon phoeniceus",
+          "v": "Lesser Bottlebrush",
+          "g": "Callistemon",
+          "o": "Tall to small tree or shrub, 1-6m high. Fl. red, Sep to Jan.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },
+        {
+          "i": 1673139600153474,
+          "n": "Cygnus atratus",
+          "v": "Black Swan",
+          "g": "Cygnus",
+          "o": "Large waterbird with black plumage and red bill. Population status is stable.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },
+        {
+          "i": 1673139600153475,
+          "n": "Melaleuca nesophila",
+          "v": "Honey Myrtle",
+          "g": "Melaleuca",
+          "o": "Medium to large shrub 3-5m tall attracting wildlife, long flowering with aromatic foilage.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },
+        {
+          "i": 1673139600153476,
+          "n": "Billardiera heterophylla",
+          "v": "Australian Bluebell",
+          "g": "Billardiera",
+          "o": "As a climber grows up 4m tall, on its own forms a dense shrubby habit which can become invasive.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },
+        {
+          "i": 1673139600153477,
+          "n": "Typha orientalis",
+          "v": "Bulrush",
+          "g": "Typha",
+          "o": "Broad-leaved regarded as a environmental weed; aquatic perennial.",
+          "c": "MONOCOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },
+        {
+          "i": 1673139600153478,
+          "n": "Kennedia prostrata",
+          "v": "Running Postman",
+          "g": "Kennedia",
+          "o": "Twining shrub ground cover with red pea flowers from winter to summer.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },
+        {
+          "i": 1673139600153479,
+          "n": "Fulica atra",
+          "v": "Eurasian Coot",
+          "g": "Fulica",
+          "o": "A slaty black body, glossy black head, white bill with a white frontal shield.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },
+        {
+          "i": 1673139600153480,
+          "n": "Anas gracillis",
+          "v": "Grey Teal",
+          "g": "Anas",
+          "o": "Plain greyish mottled duck with a rounded crown.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },
+        {
+          "i": 1673139600153481,
+          "n": "Beaufortia squarrosa",
+          "v": "Sand Bottlebrush",
+          "g": "Beaufortia",
+          "o": "Small to medium shrub, 1-2m high. Fl. red, Sep to Jan.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673574090153470,
+          "n": "Ischnura heterosticta",
+          "v": "Common Bluetail",
+          "g": "Ischnura",
+          "o": "Largest of the Australian damselfly generally found near slow-running or still water.",
+          "c": "ANTHROPOD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1673746890153470,
+          "n": "Baumea preissii",
+          "v": "Sedge",
+          "g": "Baumea",
+          "o": "[Machaerina preissii] WA native robust grass like plant, perennial producing brown flowers.",
+          "c": "MONOCOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673746890153471,
+          "n": "Cairina moschata",
+          "v": "Barbary Duck",
+          "g": "Cairina",
+          "o": "Farmed originating from warmer climate in South America, adaptable to colder weather.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1673746890153472,
+          "n": "Jacksonia furcellata",
+          "v": "Grey Stinkwood",
+          "g": "Jacksonia",
+          "o": "Greyish tint on stems can be groundcover, weeping or upright shrub with yellow flowers.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673746890153473,
+          "n": "Phytolacca octandra",
+          "v": "Inkweed",
+          "g": "Phytolacca",
+          "o": "An erect short lived perennial herb regarded as an environmental weed.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673746890153474,
+          "n": "Calyptorhynchus banksii",
+          "v": "Red Tailed Black Cockatoo",
+          "g": "Calyptorhynchus",
+          "o": "Large Bushbird with tall rounded crest, black plumage with red or orange panels on the tail.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1673746890153475,
+          "n": "Chamelaucium uncinatum",
+          "v": "Geraldton Wax",
+          "g": "Chamelaucium",
+          "o": "WA native dense shrub flowering Jun-Dec.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673746890153476,
+          "n": "Adenanthos cygnorum",
+          "v": "Common Woollybush",
+          "g": "Adenanthos",
+          "o": "Native to WA having greyish foliage of closely packed small, hairy leaves on pliable, hairy stems. [Eudicots]",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673746890153477,
+          "n": "Hemiandra pungens",
+          "v": "Snakebush",
+          "g": "Hemiandra",
+          "o": "Hardy prostrate flat ground cover plant flowering spring and summer; sand granite and rock outcrops.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673746890153478,
+          "n": "Melaleuca inops",
+          "v": "Regelia inops",
+          "g": "Melaleuca",
+          "o": "Rigid spreading shrub with tiny wedge shaped leaves and dense heads of mauve flowers in spring and summer.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1673746890153479,
+          "n": "Melaleuca elliptica",
+          "v": "Granite Honey Myrtle",
+          "g": "Melaleuca",
+          "o": "Hardy, erect shrub growing to 4m high with greyish foliage and grey papery bark.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
         }
-
       ]  
     }, 
     {
@@ -459,7 +677,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/N0W654k4/1672882886153467.png",
           "l": "MC_WETLAND",
-          "c": ["fomc","crusader-bugs","wattle"]
+          "c": ["fomc","crusaders","wattle"]
         },
         {
           "t": 1672882890153469,
@@ -471,6 +689,397 @@
           "i": "https://i.postimg.cc/6Q7VWSnq/1672882890153469.png",
           "l": "MC_WETLAND",
           "c": ["insect","nymphs"]
+        },
+        {
+          "t": 1673082099277312,
+          "y": 116.000590,
+          "x": -32.081786,
+          "q": 1,
+          "s": 1673139600153476,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/pTBD3Rnr/1673082099277312.png",
+          "l": "MC_WETLAND",
+          "c": ["climber"]
+        },
+        {
+          "t": 1673082266204564,
+          "y": 116.000585,
+          "x": -32.081814,
+          "q": 1,
+          "s": 1672958795320904,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/PqWZ8Tyy/1673082266204564.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "eucalyptus","fDisc-descending","fShape-urceolate"
+          ]
+        },
+        {
+          "t": 1673083306209566,
+          "y": 116.001851,
+          "x": -32.081632,
+          "q": 5,
+          "s": 1673139600153474,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/bvckJsxd/1673083306209566.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "waterbird","chick","cygnet"
+          ]
+        },
+        {
+          "t": 1673083676685332,
+          "y": 116.001921,
+          "x": -32.081759,
+          "q": 1,
+          "s": 1673139600153475,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/XJn5fmDb/1673083676685332.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "myrtle","bloom","blue-tree"
+          ]
+        },
+        {
+          "t": 1673083872570422,
+          "y": 116.001148,
+          "x": -32.082124,
+          "q": 20,
+          "s": 1672911482910405,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/4dw9BPrh/1673083872570422.png",
+          "l": "MC_WETLAND",
+          "c": ["mature","waterlogged-soil"]
+        },
+        {
+          "t": 1673084061194067,
+          "y": 116.002295,
+          "x": -32.082962,
+          "q": 1,
+          "s": 1673139600153472,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/Hnh7CxWY/1673084061194067.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "climber"
+          ]
+        },
+        {
+          "t": 1673084373164784,
+          "y": 116.003042,
+          "x": -32.082422,
+          "q": 1,
+          "s": 1668760925094757,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/VsGtt7qx/1673084373164784.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom"
+          ]
+        },
+        {
+          "t": 1673084780830125,
+          "y": 116.003048,
+          "x": -32.082178,
+          "q": 1,
+          "s": 1673139600153470,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/5y0FGvVK/1673084780830125.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bridge","waterbird"
+          ]
+        },
+        {
+          "t": 1673084902440533,
+          "y": 116.002927,
+          "x": -32.082076,
+          "q": 3,
+          "s": 1673139600153471,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/4xhpszhr/1673084902440533.png",
+          "l": "MC_WETLAND",
+          "c": ["waterbird","bridge"]
+        },
+        {
+          "t": 1673085446362726,
+          "y": 116.002991,
+          "x": -32.082022,
+          "q": 2,
+          "s": 1673139600153479,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/ZRfWrRd8/1673085446362726.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "waterbird","chick"
+          ]
+        },
+        {
+          "t": 1673085741154166,
+          "y": 116.003182,
+          "x": -32.082119,
+          "q": 1,
+          "s": 1673139600153478,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/zv63ccp3/1673085741154166.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom","runner"
+          ]
+        },
+        {
+          "t": 1673085827089810,
+          "y": 116.003061,
+          "x": -32.082141,
+          "q": 1,
+          "s": 1673139600153481,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/DfMW0SFF/1673085827089810.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bridge","native"
+          ]
+        },
+        {
+          "t": 1673086097534728,
+          "y": 116.001568,
+          "x": -32.082654,
+          "q": 12,
+          "s": 1673139600153477,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/Fz77G4y2/1673086097534728.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "weed"
+          ]
+        },{
+          "t": 1673688239687116,
+          "y": 115.998243,
+          "x": -32.084228,
+          "q": 1,
+          "s": 1672958795320904,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/prL4KcsY/1673688239687116.png",
+          "l": "MC_WETLAND",
+          "c": ["eucalyptus","gumnut"]
+        },
+        {
+          "t": 1673688283633559,
+          "y": 115.998219,
+          "x": -32.084248,
+          "q": 1,
+          "s": 1673139600153476,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/ZqLwjFBf/1673688283633559.png",
+          "l": "MC_WETLAND",
+          "c": ["bloom"]
+        },
+        {
+          "t": 1673688412729571,
+          "y": 115.998073,
+          "x": -32.084249,
+          "q": 1,
+          "s": 1673746890153478,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/3rfbPBLV/1673688412729571.png",
+          "l": "MC_WETLAND",
+          "c": ["bloom"]
+        },
+        {
+          "t": 1673688581914701,
+          "y": 115.998014,
+          "x": -32.084250,
+          "q": 1,
+          "s": 1673746890153477,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/gkft00bK/1673688581914701.png",
+          "l": "MC_WETLAND",
+          "c": ["bloom"]
+        },
+        {
+          "t": 1673688704873446,
+          "y": 115.998020,
+          "x": -32.084081,
+          "q": 1,
+          "s": 1673139600153481,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/qqqDNh71/1673688704873446.png",
+          "l": "MC_WETLAND",
+          "c": ["bloom"]
+        },
+        {
+          "t": 1673688952330951,
+          "y": 115.997907,
+          "x": -32.083116,
+          "q": 3,
+          "s": 1673746890153474,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/3xmS0HKQ/1673688952330951.png",
+          "l": "MC_WETLAND",
+          "c": ["cockatoo","flight-SE"]
+        },
+        {
+          "t": 1673689050993405,
+          "y": 115.997889,
+          "x": -32.082610,
+          "q": 1,
+          "s": 1673746890153478,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/J0F6ZrDM/1673689050993405.png",
+          "l": "MC_WETLAND",
+          "c": ["bloom"]
+        },
+        {
+          "t": 1673689129073657,
+          "y": 115.997967,
+          "x": -32.082523,
+          "q": 1,
+          "s": 1673139600153481,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/5NHk1CT0/1673689129073657.png",
+          "l": "MC_WETLAND",
+          "c": ["bloom"]
+        },
+        {
+          "t": 1673689235716056,
+          "y": 115.998377,
+          "x": -32.081917,
+          "q": 3,
+          "s": 1673139600153470,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/0NGBF130/1673689235716056.png",
+          "l": "MC_WETLAND",
+          "c": ["road"]
+        },
+        {
+          "t": 1673689500142141,
+          "y": 115.998522,
+          "x": -32.082081,
+          "q": 6,
+          "s": 1672909541720612,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/nVX6VgQp/1673689500142141.png",
+          "l": "MC_WETLAND",
+          "c": []
+        },
+        {
+          "t": 1673689648859981,
+          "y": 115.998659,
+          "x": -32.082074,
+          "q": 1,
+          "s": 1673746890153471,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/qgfcpz6h/1673689648859981.png",
+          "l": "MC_WETLAND",
+          "c": ["threat","introduced","nuisance"]
+        },
+        {
+          "t": 1673689764876794,
+          "y": 115.998543,
+          "x": -32.081812,
+          "q": 1,
+          "s": 1673139600153476,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/qvBfrRsZ/1673689764876794.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom","bluebell"
+          ]
+        },
+        {
+          "t": 1673689854121725,
+          "y": 115.998753,
+          "x": -32.081637,
+          "q": 30,
+          "s": 1673746890153470,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/YS2s5sHc/1673689854121725.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom","sedge"
+          ]
+        },
+        {
+          "t": 1673690051368067,
+          "y": 115.999871,
+          "x": -32.082217,
+          "q": 1,
+          "s": 1673746890153476,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/jqBBDczN/1673690051368067.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "eudicots","woollybush"
+          ]
+        },
+        {
+          "t": 1673690344064207,
+          "y": 116.000547,
+          "x": -32.081735,
+          "q": 1,
+          "s": 1673746890153475,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/hPx6TmrY/1673690344064207.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom"
+          ]
+        },
+        {
+          "t": 1673690473604986,
+          "y": 116.000512,
+          "x": -32.081651,
+          "q": 1,
+          "s": 1673746890153472,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/rwkbJpZw/1673690473604986.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom"
+          ]
+        },
+        {
+          "t": 1673691122242763,
+          "y": 116.001416,
+          "x": -32.081926,
+          "q": 5,
+          "s": 1671492132115293,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/XYkPD0tc/1673691122242763.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom",
+            "fungi","colour"
+          ]
+        },
+        {
+          "t": 1673691276376938,
+          "y": 116.001373,
+          "x": -32.081978,
+          "q": 1,
+          "s": 1673746890153479,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/R0PD4LSW-/1673691276376938.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom","bottlebrush"
+          ]
+        },
+        {
+          "t": 1673691885617744,
+          "y": 116.0012312,
+          "x": -32.0820894,
+          "q": 1,
+          "s": 1673746890153473,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/ht2ktBM4/1673691885617744.png",
+          "l": "MC_WETLAND",
+          "c": [
+            "bloom",
+            "toxic",
+            "threat",
+            "weed","berries"
+          ]
         }
       ]
     },
