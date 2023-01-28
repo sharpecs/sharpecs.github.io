@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "454f0ad5749695d99b16c72a4cf9c12b",
-"assets/assets/eudoria.json": "2bc16e113a7b0005b9399debd60a905d",
+  "assets/AssetManifest.json": "797b8f97189e4ca9cd903c76e496ec77",
+"assets/assets/eudoria.json": "6648e72a66aaaebdf26540d7aaf7b516",
 "assets/assets/images/eudoria_logo.png": "4758952d431e5b3861842570ab8054c1",
 "assets/assets/images/map_mcw.png": "74339c19176aabbba28e0067f54ecb97",
 "assets/assets/images/mcw.png": "0f09c51e1c499b6d3fe7bd76fc404e08",
 "assets/assets/images/reeds.png": "d31cc9004382e0b984ae105b4282d180",
+"assets/assets/images/sat_mcw.png": "00919dbe8ce7aa81114e523591d0814b",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "a19ab7f3dfd319da8a3acc756e6a7d2e",
@@ -23,9 +24,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "6cdae312a9c2db859cc869b8ae82cd64",
 "icons/Icon-maskable-192.png": "7bc9e89f3a0d6a0f910474ad111d4ed6",
 "icons/Icon-maskable-512.png": "6cdae312a9c2db859cc869b8ae82cd64",
-"index.html": "2ba4700bf5ae39cdee5c5148a04c7414",
-"/": "2ba4700bf5ae39cdee5c5148a04c7414",
-"main.dart.js": "520e2be6e43a3a2bc23acc0f82c7ee83",
+"index.html": "34394057e89b0b1ef79ea137e010d109",
+"/": "34394057e89b0b1ef79ea137e010d109",
+"main.dart.js": "d45f5437c019a945e01fd9baaac49be1",
 "manifest.json": "c3d7f166cfefc1ea9a3e22bfab704c4c",
 "version.json": "1fdf86894d9a6444f3db5f9986c4e0ab"
 };

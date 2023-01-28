@@ -23,80 +23,10 @@
         },
         {
           "i": 1665541236594195,
-          "n": "Gymnorhina Tibicen",
+          "n": "Gymnorhina tibicen",
           "v": "Australian Magpie",
           "g": "Gymnorhina",
-          "o": "koorbadi",
-          "c": "BIRD",
-          "k": "ANIMAL",
-          "d": false
-        },
-        {
-          "i": 1665541236594191,
-          "n": "Merops Ornatus",
-          "v": "Rainbow Bee-eater",
-          "g": "Merops",
-          "o": "birinbirin",
-          "c": "BIRD",
-          "k": "ANIMAL",
-          "d": false
-        },
-        {
-          "i": 1668143528461037,
-          "n": "Cacatua sanguinea",
-          "v": "Little Corella",
-          "g": "Cacatua",
-          "o": "",
-          "c": "BIRD",
-          "k": "ANIMAL",
-          "d": false
-        },
-        {
-          "i": 1668143568320323,
-          "n": "Trichoglossus moluccanus",
-          "v": "Rainbow Lorikeet",
-          "g": "Trichoglossus",
-          "o": "",
-          "c": "BIRD",
-          "k": "ANIMAL",
-          "d": false
-        },
-        {
-          "i": 1668143608753289,
-          "n": "Dacelo novaeguineae",
-          "v": "Laughing Kookaburra",
-          "g": "Dacelo",
-          "o": "",
-          "c": "BIRD",
-          "k": "ANIMAL",
-          "d": false
-        },
-        {
-          "i": 1668143644078505,
-          "n": "Spilopelia chinensis",
-          "v": "Spotted Dove",
-          "g": "Spilopelia",
-          "o": "",
-          "c": "BIRD",
-          "k": "ANIMAL",
-          "d": false
-        },
-        {
-          "i": 1668143665712928,
-          "n": "Eolophus roseicapilla",
-          "v": "Galah",
-          "g": "Eolophus",
-          "o": "",
-          "c": "BIRD",
-          "k": "ANIMAL",
-          "d": false
-        },
-        {
-          "i": 1668143698743433,
-          "n": "Todiramphus sanctus",
-          "v": "Sacred Kingfisher",
-          "g": "Todiramphus",
-          "o": "koonyenok",
+          "o": "Highly regarded songbird living in groups occupying a territory. They are omnivorous and aggressive during breeding season Aug-Nov.",
           "c": "BIRD",
           "k": "ANIMAL",
           "d": false
@@ -106,7 +36,7 @@
           "n": "Corvus coronoides",
           "v": "Australian Raven",
           "g": "Corvus",
-          "o": "wodang",
+          "o": "All black bird with glossy plumage; a distinct territorial call to communicate; will mate for life and very territorial.",
           "c": "BIRD",
           "k": "ANIMAL",
           "d": false
@@ -156,7 +86,7 @@
           "n": "Paraserianthes lophantha",
           "v": "Plume Albizia",
           "g": "Paraserianthes",
-          "o": "",
+          "o": "Shrub or tree that flowers yellow, green bottlebrush like Apr-Oct. Pods are darks brown.",
           "c": "DICOTYLEDON",
           "k": "PLANT",
           "d": false
@@ -488,7 +418,7 @@
         },{
           "i": 1673746890153474,
           "n": "Calyptorhynchus banksii",
-          "v": "Red Tailed Black Cockatoo",
+          "v": "Red Tailed Cockatoo",
           "g": "Calyptorhynchus",
           "o": "Large Bushbird with tall rounded crest, black plumage with red or orange panels on the tail.",
           "c": "BIRD",
@@ -539,7 +469,115 @@
           "c": "DICOTYLEDON",
           "k": "PLANT",
           "d": false
-        }
+        },{
+          "i": 1674351690153470,
+          "n": "Polistes chinensis",
+          "v": "Paper Wasp",
+          "g": "Polistes",
+          "o": "Yellow and black bodies with tan legs. Adults feed on plant nectar and insect honeydew. Stings repeatedly.",
+          "c": "ANTHROPOD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674351690153471,
+          "n": "Porphyrio melanotus",
+          "v": "Purple Swamphen",
+          "g": "Porphyrio",
+          "o": "Purple throat and breast; will walk away from danger than fly. Shrieks loudly to defend nest. Clumsy take off and landing.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153470,
+          "n": "Todiramphus sanctus",
+          "v": "Sacred Kingfisher",
+          "g": "Todiramphus",
+          "o": "Medium sized with a turquoise back and broad cream collar. Occassionally nest in burrowed tunnel close to waters edge.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153471,
+          "n": "Ardea alba",
+          "v": "Great Egret",
+          "g": "Ardea",
+          "o": "Moderately large bird with white plumage with yellow bill. During breeding season the bill turn black.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153472,
+          "n": "Nycticorax caledonicus",
+          "v": "Nankeen Night Heron",
+          "g": "Nycticorax",
+          "o": "A nocturnal large water bird with a rich cinnamon plumage. Large eyes adapted for night vision.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153473,
+          "n": "Apis mellifera",
+          "v": "Western Honey Bee",
+          "g": "Apis",
+          "o": "Introduced honey bee feeding on pollen and nectar. Identified as brown with black bands and orange yellow rings on abdomen.",
+          "c": "ANTHROPOD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153474,
+          "n": "Camponotus dryandrae",
+          "v": "Sugar Ant",
+          "g": "Camponotus",
+          "o": "Head black, mesosoma, node, coxa and femur red brown. Nests are found in compacted laterite clay or directly into the soil.",
+          "c": "ANTHROPOD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153475,
+          "n": "Rhipidura leucophrys",
+          "v": "Willie Wagtail",
+          "g": "Rhipidura",
+          "o": "Australian fantail with black plumage above and white belly. Typically has markings of white eyebrows and black throat.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153476,
+          "n": "Cacatua sanguinea",
+          "v": "Little Corella",
+          "g": "Cacatua",
+          "o": "Small white cockatoo generally roost in trees overnight, fly off to feed in the early morning before returning late evening.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153477,
+          "n": "Anas superciliosa",
+          "v": "Pacific Black Duck",
+          "g": "Anas",
+          "o": "Mottled brown dabbling duck with distinctive striped head patterns. A purple green metallic panel on wing and slightly domed head.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1674783690153478,
+          "n": "Eucalyptus drummondii",
+          "v": "Drummonds Mallee",
+          "g": "Eucalyptus",
+          "o": "West Australian native with smooth bark flower buds in groups of seven, white flowers and hemispherical fruit.",
+          "c": "DICOTYLEDON",
+          "k": "PLANT",
+          "d": false
+        },{
+          "i": 1674783690153479,
+          "n": "Threskiornis moluccus",
+          "v": "Australian White Ibis",
+          "g": "Threskiornis",
+          "o": "Wading bird identified by a long downcurved bill mainly white body plumage, black featherless head and black legs.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        }  
       ]  
     }, 
     {
@@ -600,7 +638,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/50v8VFTz/1668746762450191.png",
           "l": "MC_WETLAND",
-          "c": ["eucalyptus","sandy-soil"]
+          "c": ["eucalyptus","sandy"]
         },
         {
           "t": 1668750988680989,
@@ -626,47 +664,47 @@
         },
         {
           "t": 1671490963341617,
-          "y": 116.001122,
-          "x": -32.079236,
+          "y": 116.001201,
+          "x": -32.079092,
           "q": 20,
           "s": 1671490124839484,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/4yqkDF5H/1671490963341617.png",
           "l": "MC_WETLAND",
-          "c": ["fomc","planting","waterlogged-soil"]
+          "c": ["fomc","planting","waterlogged"]
         },
         {
           "t": 1671492926089637,
-          "y": 116.000295,
-          "x": -32.079991,
+          "y": 116.000381,
+          "x": -32.079747,
           "q": 5,
           "s": 1671492132115293,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/dQxYZLYQ/1671492926089637.png",
           "l": "MC_WETLAND",
-          "c": ["fomc","watering","dry","faded"]
+          "c": ["fomc","watering","white","faded"]
         },
         {
           "t": 1672882415187667,
-          "y": 116.000880,
-          "x": -32.080605,
+          "y": 116.000877,
+          "x": -32.080317,
           "q": 15,
           "s": 1672909541720612,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/C5bmFtyk/1672882415187667.png",
           "l": "MC_WETLAND",
-          "c": ["fomc","planting","waterlogged-soil"]
+          "c": ["fomc","planting","waterlogged"]
         },
         {
           "t": 1672882526465152,
-          "y": 116.000944,
-          "x": -32.080632,
+          "y": 116.000936,
+          "x": -32.080372,
           "q": 15,
           "s": 1672911482910405,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/Wbj7G5LY/1672882526465152.png",
           "l": "MC_WETLAND",
-          "c": ["fomc","planting","waterlogged-soil"]
+          "c": ["fomc","planting","waterlogged"]
         },
         {
           "t": 1672882886153467,
@@ -677,7 +715,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/N0W654k4/1672882886153467.png",
           "l": "MC_WETLAND",
-          "c": ["fomc","crusaders","wattle"]
+          "c": ["wattle","habitat","beetle","fomc"]
         },
         {
           "t": 1672882890153469,
@@ -688,7 +726,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/6Q7VWSnq/1672882890153469.png",
           "l": "MC_WETLAND",
-          "c": ["insect","nymphs"]
+          "c": ["insect","nymphs","bug"]
         },
         {
           "t": 1673082099277312,
@@ -711,13 +749,13 @@
           "i": "https://i.postimg.cc/PqWZ8Tyy/1673082266204564.png",
           "l": "MC_WETLAND",
           "c": [
-            "eucalyptus","fDisc-descending","fShape-urceolate"
+            "eucalyptus","gumnut","honkynut"
           ]
         },
         {
           "t": 1673083306209566,
-          "y": 116.001851,
-          "x": -32.081632,
+          "y": 116.001899,
+          "x": -32.081592,
           "q": 5,
           "s": 1673139600153474,
           "o": 1668332891601099,
@@ -729,16 +767,14 @@
         },
         {
           "t": 1673083676685332,
-          "y": 116.001921,
-          "x": -32.081759,
+          "y": 116.001959,
+          "x": -32.081718,
           "q": 1,
           "s": 1673139600153475,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/XJn5fmDb/1673083676685332.png",
           "l": "MC_WETLAND",
-          "c": [
-            "myrtle","bloom","blue-tree"
-          ]
+          "c": ["myrtle","bloom","blue"]
         },
         {
           "t": 1673083872570422,
@@ -749,7 +785,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/4dw9BPrh/1673083872570422.png",
           "l": "MC_WETLAND",
-          "c": ["mature","waterlogged-soil"]
+          "c": ["mature","waterlogged"]
         },
         {
           "t": 1673084061194067,
@@ -760,9 +796,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/Hnh7CxWY/1673084061194067.png",
           "l": "MC_WETLAND",
-          "c": [
-            "climber"
-          ]
+          "c": ["climber"]
         },
         {
           "t": 1673084373164784,
@@ -773,9 +807,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/VsGtt7qx/1673084373164784.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom"
-          ]
+          "c": ["bloom"]
         },
         {
           "t": 1673084780830125,
@@ -786,9 +818,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/5y0FGvVK/1673084780830125.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bridge","waterbird"
-          ]
+          "c": ["bridge","waterbird"]
         },
         {
           "t": 1673084902440533,
@@ -810,9 +840,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/ZRfWrRd8/1673085446362726.png",
           "l": "MC_WETLAND",
-          "c": [
-            "waterbird","chick"
-          ]
+          "c": ["waterbird","chick"]
         },
         {
           "t": 1673085741154166,
@@ -823,9 +851,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/zv63ccp3/1673085741154166.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom","runner"
-          ]
+          "c": ["bloom","runner"]
         },
         {
           "t": 1673085827089810,
@@ -836,9 +862,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/DfMW0SFF/1673085827089810.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bridge","native"
-          ]
+          "c": ["bridge","native"]
         },
         {
           "t": 1673086097534728,
@@ -849,9 +873,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/Fz77G4y2/1673086097534728.png",
           "l": "MC_WETLAND",
-          "c": [
-            "weed"
-          ]
+          "c": ["weed"]
         },{
           "t": 1673688239687116,
           "y": 115.998243,
@@ -982,9 +1004,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/qvBfrRsZ/1673689764876794.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom","bluebell"
-          ]
+          "c": ["bloom","bluebell"]
         },
         {
           "t": 1673689854121725,
@@ -995,22 +1015,18 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/YS2s5sHc/1673689854121725.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom","sedge"
-          ]
+          "c": ["bloom","sedge"]
         },
         {
           "t": 1673690051368067,
-          "y": 115.999871,
-          "x": -32.082217,
+          "y": 115.999907,
+          "x": -32.082180,
           "q": 1,
           "s": 1673746890153476,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/jqBBDczN/1673690051368067.png",
           "l": "MC_WETLAND",
-          "c": [
-            "eudicots","woollybush"
-          ]
+          "c": ["eudicots","woollybush"]
         },
         {
           "t": 1673690344064207,
@@ -1021,9 +1037,7 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/hPx6TmrY/1673690344064207.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom"
-          ]
+          "c": ["bloom"]
         },
         {
           "t": 1673690473604986,
@@ -1034,52 +1048,216 @@
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/rwkbJpZw/1673690473604986.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom"
-          ]
+          "c": ["bloom"]
         },
         {
           "t": 1673691122242763,
-          "y": 116.001416,
-          "x": -32.081926,
+          "y": 116.001686,
+          "x": -32.081814,
           "q": 5,
           "s": 1671492132115293,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/XYkPD0tc/1673691122242763.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom",
-            "fungi","colour"
-          ]
+          "c": ["bloom","fungi","orange"]
         },
         {
           "t": 1673691276376938,
-          "y": 116.001373,
-          "x": -32.081978,
+          "y": 116.001633,
+          "x": -32.081817,
           "q": 1,
           "s": 1673746890153479,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/R0PD4LSW-/1673691276376938.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom","bottlebrush"
-          ]
+          "c": ["bloom","bottlebrush","rocky"]
         },
         {
           "t": 1673691885617744,
-          "y": 116.0012312,
-          "x": -32.0820894,
+          "y": 116.001364,
+          "x": -32.082013,
           "q": 1,
           "s": 1673746890153473,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/ht2ktBM4/1673691885617744.png",
           "l": "MC_WETLAND",
-          "c": [
-            "bloom",
-            "toxic",
-            "threat",
-            "weed","berries"
-          ]
+          "c": ["bloom","toxic","threat","weed","berries"]
+        },
+        {
+          "t": 1674295695382991,
+          "y": 116.001512,
+          "x": -32.082062,
+          "q": 2,
+          "s": 1668143737784161,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/fTcdWyt4/1674295695382991.png",
+          "l": "MC_WETLAND",
+          "c": ["bushbird","wodang"]
+        },
+        {
+          "t": 1674296899054875,
+          "y": 116.000657,
+          "x": -32.081626,
+          "q": 2,
+          "s": 1674351690153471,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/jjm24YwQ/1674296899054875.png",
+          "l": "MC_WETLAND",
+          "c": []
+        },
+        {
+          "t": 1674297043620178,
+          "y": 116.000491,
+          "x": -32.081685,
+          "q": 1,
+          "s": 1674351690153470,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/C5VK9C4R/1674297043620178.png",
+          "l": "MC_WETLAND",
+          "c": ["insect","habitat","pollinator","exotic"]
+        },
+        {
+          "t": 1674349872575588,
+          "y": 116.001527,
+          "x": -32.082010,
+          "q": 1,
+          "s": 1668387223419996,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/PJzqHL62/1674349872575588.png",
+          "l": "MC_WETLAND",
+          "c": ["rocky"]
+        },
+        {
+          "t": 1674352370063465,
+          "y": 116.0004502,
+          "x": -32.0823426,
+          "q": 1,
+          "s": 1665541236594195,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/bJnJ6V1X/1674352370063465.png",
+          "l": "MC_WETLAND",
+          "c": ["road","bushbird","songbird"]
+        },
+        {
+          "t": 1674811419723177,
+          "y": 116.002331,
+          "x": -32.082292,
+          "q": 6,
+          "s": 1674783690153474,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/1zv5FGjd/1674811419723177.png",
+          "l": "MC_WETLAND",
+          "c": ["insect","rocky","ant"]
+        },
+        {
+          "t": 1674811661143021,
+          "y": 116.002437,
+          "x": -32.082234,
+          "q": 1,
+          "s": 1674783690153475,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/yY0RZGXr/1674811661143021.png",
+          "l": "MC_WETLAND",
+          "c": ["bushbird","wagtail"]
+        },
+        {
+          "t": 1674811699007396,
+          "y": 116.002156,
+          "x": -32.081797,
+          "q": 3,
+          "s": 1674783690153477,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/bvrd3VkP/1674811699007396.png",
+          "l": "MC_WETLAND",
+          "c": ["waterbird","duck","bridge"]
+        },
+        {
+          "t": 1674811734686543,
+          "y": 116.002877,
+          "x": -32.081997,
+          "q": 10,
+          "s": 1673139600153471,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/ZqQngPxd/1674811734686543.png",
+          "l": "MC_WETLAND",
+          "c": ["waterbird","shelduck"]
+        },
+        {
+          "t": 1674812671864871,
+          "y": 116.001253,
+          "x": -32.081707,
+          "q": 1,
+          "s": 1674783690153471,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/c4Gg0my7/1674812671864871.png",
+          "l": "MC_WETLAND",
+          "c": ["waterbird","egret"]
+        },
+        {
+          "t": 1674812688401475,
+          "y": 116.001481,
+          "x": -32.081797,
+          "q": 4,
+          "s": 1673139600153479,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/CM3Dd0Dq/1674812688401475.png",
+          "l": "MC_WETLAND",
+          "c": ["waterbird","chicks","coot"]
+        },
+        {
+          "t": 1674813397384618,
+          "y": 116.0005818,
+          "x": -32.0826855,
+          "q": 1,
+          "s": 1674783690153478,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/x10Xb1dc/1674813397384618.png",
+          "l": "MC_WETLAND",
+          "c": ["bloom","eculptus"]
+        },
+        {
+          "t": 1674814334394518,
+          "y": 116.000320,
+          "x": -32.080293,
+          "q": 6,
+          "s": 1674783690153476,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/zXwLBg8s/1674814334394518.png",
+          "l": "MC_WETLAND",
+          "c": ["introduced","corella"]
+        },
+        {
+          "t": 1674814824459772,
+          "y": 116.000153,
+          "x": -32.080120,
+          "q": 3,
+          "s": 1674783690153473,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/zG0VwYLp/1674814824459772.png",
+          "l": "MC_WETLAND",
+          "c": ["insect","introduced","pollinator"]
+        },
+        {
+          "t": 1674815627536190,
+          "y": 116.003188,
+          "x": -32.081733,
+          "q": 1,
+          "s": 1674783690153470,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/mkfDZbqZ/1674815627536190.png",
+          "l": "MC_WETLAND",
+          "c": ["bushbird","kingfisher"]
+        },
+        {
+          "t": 1674816077554668,
+          "y": 116.001754,
+          "x": -32.082806,
+          "q": 1,
+          "s": 1674783690153472,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/fycbJGnc/1674816077554668.png",
+          "l": "MC_WETLAND",
+          "c": ["waterbird","nocternal","heron"]
         }
       ]
     },
