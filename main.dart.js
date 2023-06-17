@@ -44179,7 +44179,7 @@ return 4},
 $S:0}
 A.y_.prototype={
 af(){var s=t.S,r=t.pK
-return new A.YV(A.x(s,r),A.x(s,r),A.x(s,r),A.x(s,r),A.a([new A.iI("ANTHROPOD"),new A.iI("BIRD"),new A.iI("MAMMAL"),new A.iI("FISH"),new A.iI("REPTILE"),new A.iI("AMPHIBIAN")],t.u9),B.m)}}
+return new A.YV(A.x(s,r),A.x(s,r),A.x(s,r),A.x(s,r),A.a([new A.iI("ANTHROPOD"),new A.iI("BIRD"),new A.iI("GASTROPOD"),new A.iI("MAMMAL"),new A.iI("REPTILE"),new A.iI("AMPHIBIAN")],t.u9),B.m)}}
 A.YV.prototype={
 av(){this.aaz()
 this.aR()},
