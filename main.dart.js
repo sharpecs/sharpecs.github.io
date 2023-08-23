@@ -44873,9 +44873,9 @@ F(a){var s,r,q,p,o,n=null,m="Fungal partners in a sustainable ecosystem",l="The 
 k=k.a
 s=k/15
 r=t.l
-if(a.H(r).f.a.a<800){r=k/40
+if(a.H(r).f.a.a<800){r=k/50
 q=t.p
-k=A.bd(new A.b5(new A.a3(r,i,r,0),A.aP(A.a([A.ar(m,n,n,n,B.fq,B.aS,n),B.b3,A.ar(l,n,n,n,B.EZ,B.dg,n)],q),B.k,B.n,B.i),n),j*0.35,k)
+k=A.bd(new A.b5(new A.a3(r,i,r,0),A.aP(A.a([A.ar(m,n,n,n,B.fq,B.aS,n),B.b3,A.ar(l,n,n,n,B.EZ,B.dg,n)],q),B.k,B.n,B.i),n),j*0.6,k)
 j=A.dp(5)
 q=A.aP(A.a([A.a8a(A.rV(A.aP(A.a([k,A.of(B.B,-0.3,A.aY(n,n,B.j,n,n,new A.bL(n,A.a58(n,new A.k3(this.d[1],1,n),n),n,j,n,n,B.R),n,300,n,n,n,n,n,400),n)],q),B.k,B.bT,B.i),B.l,n,n,n,n))],q),B.k,B.az,B.i)
 k=q}else{if(a.H(r).f.a.a<800)p=0
@@ -44894,9 +44894,9 @@ F(a){var s,r,q,p,o,n=null,m="Artifical hollows supporting viable populations",l=
 k=k.a
 s=k/15
 r=t.l
-if(a.H(r).f.a.a<800){r=k/40
+if(a.H(r).f.a.a<800){r=k/50
 q=t.p
-k=A.bd(new A.b5(new A.a3(r,i,r,0),A.aP(A.a([A.ar(m,n,n,n,B.fq,B.aS,n),B.b3,A.ar(l,n,n,n,B.EZ,B.dg,n)],q),B.k,B.n,B.i),n),j*0.4,k)
+k=A.bd(new A.b5(new A.a3(r,i,r,0),A.aP(A.a([A.ar(m,n,n,n,B.fq,B.aS,n),B.b3,A.ar(l,n,n,n,B.EZ,B.dg,n)],q),B.k,B.n,B.i),n),j*0.6,k)
 j=A.dp(5)
 q=A.aP(A.a([A.a8a(A.rV(A.aP(A.a([k,A.of(B.B,0.3,A.aY(n,n,B.j,n,n,new A.bL(n,A.a58(n,new A.k3(this.d[1],1,n),n),n,j,n,n,B.R),n,300,n,n,n,n,n,400),n)],q),B.k,B.bT,B.i),B.l,n,n,n,n))],q),B.k,B.az,B.i)
 k=q}else{if(a.H(r).f.a.a<800)p=0
