@@ -913,7 +913,7 @@
         },{
           "i": 1682646090153475,
           "n": "Gymnopilus purpuratus",
-          "v": "Fungi",
+          "v": "Rustgill Mushroom",
           "g": "Gymnopilus",
           "o": "Can be found growing dead wood and woodchip mulch. https://bie.ala.org.au/species/https://id.biodiversity.org.au/node/fungi/60095449#",
           "c": "AGARICOMYCETE",
@@ -949,7 +949,7 @@
         },{
           "i": 1682646090153479,
           "n": "Agaricomycotina",
-          "v": "Fungi",
+          "v": "Agarics Fungus",
           "g": "Agaricomycotina",
           "o": "All fungi which form macroscopic fruiting bodies ie Mushrooms with gills on the underside of the cap.",
           "c": "AGARICOMYCETE",
@@ -1539,6 +1539,42 @@
           "o": "Native to America a deciduous shrub to 2.5m producing black berries.",
           "c": "DICOTYLEDON",
           "k": "PLANT",
+          "d": false
+        },{
+          "i": 1691031657000025,
+          "n": "Biziura lobata",
+          "v": "Musk Duck",
+          "g": "Biziura",
+          "o": "Stiff tailed duck feeds on gilgies and larvae. The male splashes and whistles and inflates a leathery lobe beneath the bill during breeding season.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1691031657000026,
+          "n": "Hirundo neoxena",
+          "v": "Welcome Swallow",
+          "g": "Hirundo",
+          "o": "Feeds on insects catching prey in flight with acrobatic flying skills. Distinct rust colouring on forehead, throat and upper breast.",
+          "c": "BIRD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1691031657000027,
+          "n": "Anax papuensis",
+          "v": "Australian Emperor Dragonfly",
+          "g": "Anax",
+          "o": "https://www.friendsofqueensparkbushland.org.au/hemianax-papuensis/",
+          "c": "ANTHROPOD",
+          "k": "ANIMAL",
+          "d": false
+        },{
+          "i": 1691031657000028,
+          "n": "Ardices glatignyi",
+          "v": "Woolly Bear Caterpillar",
+          "g": "Ardices",
+          "o": "https://www.friendsofqueensparkbushland.org.au/caterpillar-3/",
+          "c": "ANTHROPOD",
+          "k": "ANIMAL",
           "d": false
         }
      ]  
@@ -3834,7 +3870,7 @@
           "y": 115.998233,
           "x": -32.084118,
           "q": 1,
-          "s": 1682646090153479,
+          "s": 1668386257714233,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/4dQxm0td/1687399633465072.png",
           "l": "MC_WETLAND",
@@ -4505,7 +4541,7 @@
           "y": 116.003925,
           "x": -32.080460,
           "q": 4,
-          "s": 1682646090153479,
+          "s": 1668386257714233,
           "o": 1668332891601099,
           "i": "https://i.postimg.cc/8c8XJzGp/1688617564083898.png",
           "l": "MC_WETLAND",
@@ -4972,6 +5008,127 @@
           "i": "https://i.postimg.cc/d1B0j5qT/1691035398686177.png",
           "l": "MC_WETLAND",
           "c": ["wattle", "bird","bushbird"]
+        },
+        {
+          "t": 1692577772588229,
+          "y": 116.000389,
+          "x": -32.079546,
+          "q": 1,
+          "s": 1691031657000028,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/t4nTTLJ2/1692577772588229.png",
+          "l": "MC_WETLAND",
+          "c": ["caterpillar"]
+        },
+        {
+          "t": 1692837870037685,
+          "y": 116.000604,
+          "x": -32.082215,
+          "q": 1,
+          "s": 1673139600153478,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/hGKHwdkT/1692837870037685.png",
+          "l": "MC_WETLAND",
+          "c": ["floral","bloom","red","postman"]
+        },
+        {
+          "t": 1692842466485076,
+          "y": 116.001615,
+          "x": -32.081963,
+          "q": 5,
+          "s": 1668386257714233,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/VLWyFgTm/1692842466485076.png",
+          "l": "MC_WETLAND",
+          "c": ["fungi","ghost"]
+        },
+        {
+          "t": 1692842719493859,
+          "y": 116.001902,
+          "x": -32.081446,
+          "q": 6,
+          "s": 1673139600153474,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/v81HXJLM/1692842719493859.png",
+          "l": "MC_WETLAND",
+          "c": ["cygnus"]
+        },
+        {
+          "t": 1692845443185816,
+          "y": 116.002606,
+          "x": -32.082386,
+          "q": 1,
+          "s": 1691031657000025,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/3rPrqtnG/1692845443185816.png",
+          "l": "MC_WETLAND",
+          "c": ["muskduck"]
+        },
+        {
+          "t": 1692845758221936,
+          "y": 116.002471,
+          "x": -32.082298,
+          "q": 1,
+          "s": 1682646090153514,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/gc6m3vm2/1692845758221936.png",
+          "l": "MC_WETLAND",
+          "c": ["honeyeater"]
+        },
+        {
+          "t": 1692846346187025,
+          "y": 116.002723,
+          "x": -32.082302,
+          "q": 1,
+          "s": 1691031657000027,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/jjvGrjT9/1692846346187025.png",
+          "l": "MC_WETLAND",
+          "c": ["dragonfly"]
+        },
+        {
+          "t": 1692846957000000,
+          "y": 116.002471,
+          "x": -32.082298,
+          "q": 2,
+          "s": 1691031657000026,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/c1YGv0BK/1692846957000000.png",
+          "l": "MC_WETLAND",
+          "c": ["swallow"]
+        },
+        {
+          "t": 1692850142252914,
+          "y": 116.001625,
+          "x": -32.081953,
+          "q": 3,
+          "s": 1682646090153475,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/9fzvChfQ/1692850142252914.png",
+          "l": "MC_WETLAND",
+          "c": ["mushroom","bloom","maroon"]
+        },
+        {
+          "t": 1692850288645249,
+          "y": 116.001615,
+          "x": -32.081962,
+          "q": 1,
+          "s": 1682646090153479,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/L5kWN4xN/1692850288645249.png",
+          "l": "MC_WETLAND",
+          "c": ["mushroom","yellow","bloom"]
+        },
+        {
+          "t": 1692850377000000,
+          "y": 116.001603,
+          "x": -32.081972,
+          "q": 3,
+          "s": 1671492132115293,
+          "o": 1668332891601099,
+          "i": "https://i.postimg.cc/nrf549GX/1692850377000000.png",
+          "l": "MC_WETLAND",
+          "c": ["bracket","orange","bloom"]
         }
       ]
     },
